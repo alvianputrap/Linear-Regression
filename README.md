@@ -1,2 +1,2 @@
 # Digital Telent Incubator
-Materi Digital Talent Incubator - Telkom University
+Digital Talent Incubator Task - Telkom University
